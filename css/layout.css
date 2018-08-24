@@ -31,7 +31,7 @@
 }
 
 .flex-grid .col-2 {
-  flex: 2;
+  flex: auto;
 }
 .flex-grid-thirds{
   display: flex;
