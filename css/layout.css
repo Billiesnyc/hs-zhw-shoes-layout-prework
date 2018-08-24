@@ -32,7 +32,7 @@
 #middleofthree{
   float: left;
   width: 32.333%;
-  margin: 1%;
+  margin: 1% 0;
   box-sizing: border-box; 
 }
 #rightofthree{
