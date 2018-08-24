@@ -26,17 +26,17 @@
 #leftofthree{
   float: left;
   width: 33.333%;
-  border: 1% solid none;
+  border: 1% none black;
 }
 #middleofthree{
   float: left;
   width: 33.333%;
-  border: 1% solid none;
+  border: 1% none black;
 }
 #rightofthree{
   float: left;
   width: 33.333%;
-  border: 1% solid none;
+  border: 1% none black;
 }
 
 /* IE */
