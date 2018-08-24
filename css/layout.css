@@ -44,12 +44,12 @@ margin: 20px 1.15%;
 
 #twothirds{
   float: left;
-  width: 31%;
+  width: 65%;
   margin: 20px 1.15%;
 }
 
 #onethird{
   float: left;
-  width: 65%;
+  width: 31%;
   margin: 20px 1.15%;
 }
