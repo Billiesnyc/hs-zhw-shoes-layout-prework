@@ -23,14 +23,14 @@
 }
 
 /* Posititoning Classes */
-#col-1{
+.col-1{
   float: left;
   width: 31%;
 margin: 2%;
   
 }
 
-#col-2{
+.col-2{
   float: right;
   width: 66%;
   margin: 2%;
