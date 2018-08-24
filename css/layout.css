@@ -41,4 +41,6 @@
   width: 32%;
 }
 
-
+.flex-grid-thirds .col{
+  width:66%;
+}
