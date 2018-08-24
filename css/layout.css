@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 #leftofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
  margin: 1% 0;
   box-sizing: border-box; 
 }
@@ -37,7 +37,7 @@
 }
 #rightofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
  margin: 1% 0;
   box-sizing: border-box; 
 }
