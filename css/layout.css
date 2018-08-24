@@ -26,12 +26,15 @@
 #leftofthree{
   float: left;
   width: 33.333%;
+  margin: 1%;
 }
 #middleofthree{
   float: left;
   width: 33.333%;
+  margin: 1%;
 }
 #rightofthree{
   float: left;
   width: 33.333%;
+  margin: 1%;
 }
