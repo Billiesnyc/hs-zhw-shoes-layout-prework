@@ -29,7 +29,7 @@
 .flex-grid .col {
   flex: 1;
 }
-.flex-grid-thirds .flex-grid-two-col {
+.flex-grid-thirds{
   display: flex;
   justify-content: space-between;
 }
