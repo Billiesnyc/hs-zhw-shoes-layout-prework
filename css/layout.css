@@ -23,15 +23,15 @@
 }
 
 /* Posititoning Classes */
-# leftofthree{
+#leftofthree{
   float: left;
   width: 33.333%;
 }
-# middleofthree{
+#middleofthree{
   float: left;
   width: 33.333%;
 }
-# rightofthree{
+#rightofthree{
   float: left;
   width: 33.333%;
 }
