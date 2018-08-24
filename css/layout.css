@@ -32,7 +32,7 @@
   justify-content: space-between;
 }
 
-.col-1{
+.flex-grid .col-1{
   flex: 1;
 }
 
