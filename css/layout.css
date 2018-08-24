@@ -38,3 +38,15 @@
   width: 32.333%;
   margin: 1%;
 }
+.use-content-box {
+   -webkit-box-sizing: content-box;
+   -moz-box-sizing: content-box;
+   box-sizing: content-box; 
+}
+
+/* IE */
+.use-border-box {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box; 
+}
