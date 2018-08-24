@@ -27,16 +27,19 @@
   float: left;
   width: 33.333%;
   margin: 1%;
+  box-sizing: border-box; 
 }
 #middleofthree{
   float: left;
   width: 33.333%;
   margin: 1%;
+  box-sizing: border-box; 
 }
 #rightofthree{
   float: left;
   width: 33.333%;
   margin: 1%;
+  box-sizing: border-box; 
 }
 
 /* IE */
