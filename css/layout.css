@@ -25,19 +25,19 @@
 /* Posititoning Classes */
 #leftofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
  margin: 1% 0.5% 0 0;
   box-sizing: border-box; 
 }
 #middleofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
   margin: 1% 0.5% 0.5% 0;
   box-sizing: border-box; 
 }
 #rightofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
  margin: 1% 0 0 0.5%;
   box-sizing: border-box; 
 }
