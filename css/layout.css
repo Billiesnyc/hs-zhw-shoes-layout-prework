@@ -36,7 +36,7 @@
 .flex-grid-thirds{
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1%;
+  margin-bottom: 2%;
 }
 .flex-grid-thirds .col {
   width: 32%;
