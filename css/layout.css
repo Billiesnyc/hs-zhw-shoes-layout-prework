@@ -23,10 +23,11 @@
 }
 
 /* Posititoning Classes */
+.flex-grid {
+  display: flex;
+}
 .col-1{
-  float: left;
-  width: 32%;
-  margin: 10px;
+  flex: 1;
 }
 
 .col-2{
