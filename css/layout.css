@@ -25,17 +25,17 @@
 /* Posititoning Classes */
 #leftofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
   margin: 1%;
 }
 #middleofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
   margin: 1%;
 }
 #rightofthree{
   float: left;
-  width: 32.333%;
+  width: 33.333%;
   margin: 1%;
 }
 .use-content-box {
